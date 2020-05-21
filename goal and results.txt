@@ -1,0 +1,17 @@
+Goal and results:
+The goal of the project was to do sentiment analysis of the comments on the 
+selected Kardashians posts on Instagram. This would then show which posts received
+the most positive and the most negative comments. With this is would be possible
+to deduce which of the Kardashians are most liked or most disliked overall.
+Then to see how accurate this is, two different sentiment analysis model will be 
+used. The result of the investigation is that Rob Kardashian seemed to be the most
+liked. However, the second model revealed that the scores of the comments differed
+between the two models. Therefore, the analysis is not precise. This is most likely
+due to the internet slang and the extensive use of emojis. For example after 
+a simple observation it seemed that the emoji fire was scored negatively, which in
+actually isn't the case. Additionally the double heart emoji was scored as neutral,
+thus it did not get a highly positive score. Although a lot of the common emojis were
+scored accurately, a lot of others were not. This happened even after using the model
+specifically designed for social media comments analysis. As a conclusion, it can be
+deduced that the analysis of comments in general is still not fully accurate and 
+would require more thorough research.
